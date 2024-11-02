@@ -68,7 +68,7 @@ A continuación se presentan algunas capturas de pantalla de la aplicación en f
 ![Dashboard](MiProyectoLaravel/public/dashboard.png)
 
 ### Captura 4: Sistema de registro y login
-![Registro](MiProyectoLaravel/public/registro.png)
+![Registro de usuario](MiProyectoLaravel/public/registro.png)
 ![Login](MiProyectoLaravel/public/login.png)
 
 ---
