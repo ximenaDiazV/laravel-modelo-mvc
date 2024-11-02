@@ -61,7 +61,6 @@ A continuación se presentan algunas capturas de pantalla de la aplicación en f
 ![Inicio de la aplicación con usuario](MiProyectoLaravel/public/inicio2.png)
 
 ### Captura 2: Base de Datos
-![Base de Datos](MiProyectoLaravel/public/BD.png)
 ![Base de Datos con usuario ya registrado](MiProyectoLaravel/public/BD_2.png)
 
 ### Captura 3: Dashboard
