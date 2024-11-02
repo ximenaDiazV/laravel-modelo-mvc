@@ -11,25 +11,24 @@ Esta aplicación web está desarrollada en Laravel y tiene como objetivo princip
 
 La estructura del proyecto sigue el patrón MVC (*Modelo-Vista-Controlador*) típico de Laravel. A continuación se presenta una vista simplificada de las carpetas más relevantes:
 
-MiProyectoLaravel/
-├── app/ # Contiene el código fuente de la aplicación
-│ ├── Http/ # Controladores y Middleware
-│ ├── Models/ # Modelos de la base de datos
-│ └── ...
-│
-├── database/ # Archivos de migraciones y semillas
-│ ├── migrations/ # Migraciones de base de datos
-│ └── seeds/ # Archivos de semillas de la base de datos
-│
-├── resources/ # Recursos para la aplicación (vistas, CSS, JS)
-│ ├── views/ # Vistas de la aplicación (Blade templates)
-│ └── ...
-│
-├── routes/ # Rutas de la aplicación
-│ └── web.php # Rutas web
-│
-├── .env # Configuración del entorno
-└── composer.json # Dependencias de la aplicación
+- **MiProyectoLaravel/**
+  - **app/**: Contiene el código fuente de la aplicación.
+    - **Http/**: Controladores y Middleware.
+    - **Models/**: Modelos de la base de datos.
+  
+  - **database/**: Archivos de migraciones y semillas.
+    - **migrations/**: Migraciones de base de datos.
+    - **seeds/**: Archivos de semillas de la base de datos.
+  
+  - **resources/**: Recursos para la aplicación (vistas, CSS, JS).
+    - **views/**: Vistas de la aplicación (Blade templates).
+  
+  - **routes/**: Rutas de la aplicación.
+    - **web.php**: Rutas web.
+  
+  - **.env**: Configuración del entorno.
+  
+  - **composer.json**: Dependencias de la aplicación.
 
 ---
 
@@ -58,19 +57,19 @@ Las siguientes dependencias son utilizadas en este proyecto:
 A continuación se presentan algunas capturas de pantalla de la aplicación en funcionamiento:
 
 ### Captura 1: Inicio de la Aplicación
-![Inicio de la aplicación sin estar registrado](MiProyectoLaravel\public\inicio.png)
-![Inicio de la aplicación con usuario](MiProyectoLaravel\public\inicio2.png)
+![Inicio de la aplicación sin estar registrado](MiProyectoLaravel/public/inicio.png)
+![Inicio de la aplicación con usuario](MiProyectoLaravel/public/inicio2.png)
 
 ### Captura 2: Base de Datos
-![Base de Datos](MiProyectoLaravel\public\BD.png)
-![Base de Datos con usuario ya registrado](MiProyectoLaravel\public\BD_2.png)
+![Base de Datos](MiProyectoLaravel/public/BD.png)
+![Base de Datos con usuario ya registrado](MiProyectoLaravel/public/BD_2.png)
 
 ### Captura 3: Dashboard
-![Dashboard](MiProyectoLaravel\public\dashboard.png)
+![Dashboard](MiProyectoLaravel/public/dashboard.png)
 
 ### Captura 4: Sistema de registro y login
-![Registro](MiProyectoLaravel\public\registro.png)
-![Login](MiProyectoLaravel\public\login.png)
+![Registro](MiProyectoLaravel/public/registro.png)
+![Login](MiProyectoLaravel/public/login.png)
 
 ---
 
